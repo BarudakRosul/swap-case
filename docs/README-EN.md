@@ -5,7 +5,6 @@
   <p><a href="https://github.com/BarudakRosul/swap-case/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">Report Bug</a> · <a href="https://github.com/BarudakRosul/swap-case/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">Request Feature</a></p>
   <p>
     <a href="https://github.com/BarudakRosul/swap-case/actions/workflows/test.yml"><img src="https://github.com/BarudakRosul/swap-case/actions/workflows/test.yml/badge.svg" alt="Testing"/></a>
-    <a href="https://npmjs.com/package/@barudakrosul/swap-case"><img src="https://img.shields.io/node/v/%40barudakrosul%2Fswap-case" alt="Node Engines"/></a>
     <a href="https://npmjs.com/package/@barudakrosul/swap-case"><img src="https://img.shields.io/npm/v/%40barudakrosul%2Fswap-case" alt="NPM Version"/></a>
     <a href="/LICENSE"><img src="https://img.shields.io/github/license/BarudakRosul/swap-case" alt="License"/></a>
     <a href="https://npmjs.com/package/@barudakrosul/swap-case"><img src="https://img.shields.io/npm/d18m/%40barudakrosul%2Fswap-case" alt="Downloads"/></a>
