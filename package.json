@@ -1,0 +1,39 @@
+{
+  "name": "@barudakrosul/swap-case",
+  "version": "0.0.1",
+  "description": "Converts all lowercase letters in the string to uppercase and all uppercase letters to lowercase",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarudakRosul/swap-case.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
+  "keywords": [
+    "swap",
+    "letters",
+    "swap-case",
+    "swapper",
+    "upper",
+    "lower"
+  ],
+  "author": "Barudak Rosul",
+  "license": "CC0-1.0",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/BarudakRosul/swap-case/issues"
+  },
+  "homepage": "https://github.com/BarudakRosul/swap-case#readme",
+  "funding": {
+    "url": "https://ko-fi.com/barudakrosul"
+  },
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.6.0"
+  }
+}
