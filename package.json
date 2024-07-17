@@ -1,6 +1,6 @@
 {
   "name": "@barudakrosul/swap-case",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts all lowercase letters in the string to uppercase and all uppercase letters to lowercase",
   "main": "index.js",
   "scripts": {
